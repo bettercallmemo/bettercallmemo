@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bettercallmemo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning the basics
+
 Hello my Name is Mehmet and Im a Turk based in Germany.
 
 I try to learn much coding untill I get older. Besides that I want to Improve myself everyday so I can be the best Version of myself one day. 
